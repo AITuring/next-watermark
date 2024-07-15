@@ -1,7 +1,7 @@
 "use client";
 
 import * as THREE from "three";
-import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
+import { OrbitControls } from "three/addons";
 import React, { useEffect, useRef } from "react";
 
 const Earth = () => {
